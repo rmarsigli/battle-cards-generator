@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Black cat",
+		"image": "cat.png",
+		"attributes": {
+			"Size": "35",
+			"Maximum Velocity": "48",
+			"Life Expectation": "15",
+			"Maximum Weight": "5",
+			"Intelligence": "80",
+			"Social": "6"
+		}
+	},
+	{
+		"name": "Cane Corso, the dog",
+		"image": "dog.png",
+		"attributes": {
+			"Size": "80",
+			"Maximum Velocity": "45",
+			"Life Expectation": "12",
+			"Maximum Weight": "35",
+			"Intelligence": "85",
+			"Social": "7"
+		}
+	},
+	{
+		"name": "Mini Bunny",
+		"image": "bunny.png",
+		"attributes": {
+			"Size": "30",
+			"Maximum Velocity": "40",
+			"Life Expectation": "12",
+			"Maximum Weight": "2",
+			"Intelligence": "50",
+			"Social": "8"
+		}
+	}
+}

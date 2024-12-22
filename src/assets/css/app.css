@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+	width: 63mm;
+	height: 88mm;
+	overflow: hidden;
+}
